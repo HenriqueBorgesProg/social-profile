@@ -1,6 +1,6 @@
 # Social Profile - Henrique Borges
 
-![Preview do projeto](./Screenshot%202025-04-15%20at%2011.29.37.png)
+![Preview do projeto](./Users/HenriqueBorges/Developer/Projects/frontEnd/social-profile/img/social-profilepic.png  )
 
 Este é um projeto simples de um **perfil social** desenvolvido apenas com **HTML e CSS**, inspirado em um layout moderno e minimalista.
 
